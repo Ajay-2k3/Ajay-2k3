@@ -1,6 +1,6 @@
-# 👨‍💻 Hey there, I'm [Your Name]! 👋
+# 👨‍💻 Hey there, I'm Ajay! 👋
 
-![Profile Banner](https://your-image-url.com/banner)
+([https://your-image-url.com/banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Danime%2Bbanner&psig=AOvVaw1h29vvginNzQ9fXVIuGXr4&ust=1727016103018000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDh2dei1IgDFQAAAAAdAAAAABBA))
 
 > **Code, Coffee, and Creativity!** ☕💻🎨
 
@@ -9,7 +9,7 @@ I’m a passionate developer always exploring the limits of **web development** 
 ---
 
 ## 👨‍💻 What I’m currently up to
-- 💼 Working on **[Your Project Name](https://github.com/your-repo)** - a project that changes everything!
+- 💼 Working on **[ecomerce_website](https://github.com/ecomerce_website)** - a project that changes everything!
 - 🔥 Diving deeper into **[Next.js](https://nextjs.org/)**, **Strapi**, and **[MongoDB](https://www.mongodb.com/)**.
 - 🎯 Sharpening my skills in **API Development**, **Database Optimization**, and **Cloud Deployments**.
 - 💬 Hit me up for **collaboration**, **code reviews**, or just a chat about **tech**.
@@ -33,7 +33,7 @@ I’m a passionate developer always exploring the limits of **web development** 
 ---
 
 ### 🏆 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ---
 
@@ -45,9 +45,7 @@ I’m a passionate developer always exploring the limits of **web development** 
 ---
 
 ### 📫 How to reach me
-- **GitHub:** [Your GitHub](https://github.com/your-username)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/your-username)
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-username)
+- **GitHub:** [Your GitHub](https://github.com/Ajay-2k3/Ajay-2k3)
 
 ---
 
