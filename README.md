@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Ajay Settu — Full Stack Developer 🚀
 
-![Banner](https://images.unsplash.com/photo-1518779578993-ec3579fee39f)
 
 > **Code. Build. Ship. Repeat.** ☕💻  
 > Passionate about building scalable web apps, cloud solutions, and AI-powered products.
