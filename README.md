@@ -1,5 +1,7 @@
 <div align="center">
 
+<a name="top"></a>
+
 # AJAY S
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Software+Engineer;Building+Products+%26+Business+Websites" alt="Typing animation banner"/>
@@ -9,11 +11,10 @@ I design and build complete web applications across
 
 <br>
 
-**React · Next.js · Node.js · TypeScript · Java · Python**
-
-<sub>
-MCA Graduate · Chennai, India · Backend Development Internship Experience · Open to Full-Time Roles & Freelance Projects
-</sub>
+<img src="https://img.shields.io/badge/MCA_GRADUATE-0D1117?style=flat-square&labelColor=0D1117&color=7C3AED" alt="MCA Graduate"/>
+<img src="https://img.shields.io/badge/CGPA_8.37%2F10-0D1117?style=flat-square&labelColor=0D1117&color=7C3AED" alt="CGPA 8.37"/>
+<img src="https://img.shields.io/badge/CHENNAI%2C_INDIA-0D1117?style=flat-square&labelColor=0D1117&color=7C3AED" alt="Chennai, India"/>
+<img src="https://img.shields.io/badge/OPEN_TO_FULL--TIME_%26_FREELANCE-0D1117?style=flat-square&labelColor=0D1117&color=7C3AED" alt="Open to full-time and freelance"/>
 
 <br><br>
 
@@ -29,18 +30,22 @@ MCA Graduate · Chennai, India · Backend Development Internship Experience · O
 
 <br><br>
 
-**Hiring for an engineering role?** → [Jump to Selected Engineering Work](#02-selected-engineering-work)
-&nbsp;·&nbsp;
-**Need a website or lead system for your business?** → [Jump to Business Web Systems](#03-business-web-systems)
+<!-- Anchor nav — actual working jump links -->
+<a href="#about"><img src="https://img.shields.io/badge/About-161B22?style=flat-square" /></a>
+<a href="#engineering-work"><img src="https://img.shields.io/badge/Engineering_Work-161B22?style=flat-square" /></a>
+<a href="#business-systems"><img src="https://img.shields.io/badge/Business_Web_Systems-7C3AED?style=flat-square" /></a>
+<a href="#experience"><img src="https://img.shields.io/badge/Experience-161B22?style=flat-square" /></a>
+<a href="#skills"><img src="https://img.shields.io/badge/Skills-161B22?style=flat-square" /></a>
+<a href="#education"><img src="https://img.shields.io/badge/Education-161B22?style=flat-square" /></a>
+<a href="#contact"><img src="https://img.shields.io/badge/Contact-161B22?style=flat-square" /></a>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=90&section=header&animation=fadeIn" width="100%"/>
 
----
-
+<a name="about"></a>
 <sub>01 / ABOUT</sub>
 
 # Full-stack by scope.
@@ -58,20 +63,18 @@ Outside internship work, I build larger engineering projects — from an **AI st
 
 ---
 
+<a name="engineering-work"></a>
 <sub>02 / SELECTED ENGINEERING WORK</sub>
 
 # Systems I've built.
 
 ## 01. StockIQ
-
 ### AI Stock Prediction & Monitoring Platform
-
 **MCA Final-Year Project**
 
 A real-time platform for monitoring Indian NSE/BSE stocks and generating AI-assisted **price predictions and BUY / SELL / HOLD signals**.
 
 **What I worked on**
-
 - React + TypeScript stock dashboard
 - Node.js + Express backend
 - Python + FastAPI ML service
@@ -96,16 +99,14 @@ A real-time platform for monitoring Indian NSE/BSE stocks and generating AI-assi
 ---
 
 ## 02. Thendral
-
 ### Street Light Management System
-
 **Backend Developer Intern · Bluewhiz Infotech**
 
 A multi-role React Native application supporting:
 
 `Admin` · `Technician` · `End User` · `Inventory Manager`
 
-I worked on REST APIs, authentication-related backend workflows, application data, PostgreSQL/Supabase optimization, debugging, and system performance — see Experience below for the measured impact of this work.
+I worked on REST APIs, authentication-related backend workflows, application data, PostgreSQL/Supabase optimization, debugging, and system performance — see [Experience](#experience) below for the measured impact of this work.
 
 **Stack**
 
@@ -114,7 +115,6 @@ I worked on REST APIs, authentication-related backend workflows, application dat
 ---
 
 ## 03. Flowerly
-
 ### Multi-Role E-Commerce Platform
 
 A commercial-style application designed around four connected experiences:
@@ -122,7 +122,6 @@ A commercial-style application designed around four connected experiences:
 `Customer` · `Seller` · `Delivery Agent` · `Admin`
 
 The project includes:
-
 - responsive commerce interfaces
 - checkout workflows
 - Razorpay integration
@@ -139,6 +138,7 @@ The project includes:
 
 ---
 
+<a name="business-systems"></a>
 <sub>03 / BUSINESS WEB SYSTEMS</sub>
 
 # Websites that bring your business more customers.
@@ -161,11 +161,11 @@ A demo site focused on clear presentation, fast load times, and turning visitors
 
 **Want something similar for your business?** I keep the process simple: a short call to understand what you need, a working site, and a system that keeps sending you leads after launch.
 
-[**See examples on my portfolio →**](https://ajay-s-portfolio-5leb.vercel.app/)
-[**Email me directly →**](mailto:ajaysettu1@gmail.com)
+[**See examples on my portfolio →**](https://ajay-s-portfolio-5leb.vercel.app/) · [**Email me directly →**](mailto:ajaysettu1@gmail.com)
 
 ---
 
+<a name="experience"></a>
 <sub>04 / EXPERIENCE</sub>
 
 # Backend Developer Intern
@@ -182,33 +182,43 @@ A demo site focused on clear presentation, fast load times, and turning visitors
 
 ---
 
-<sub>05 / ENGINEERING</sub>
+<a name="skills"></a>
+<sub>05 / SKILLS AT A GLANCE</sub>
 
 # What I work across.
 
-| Layer | Technologies / Focus |
-|---|---|
-| **Frontend** | React · Next.js · React Native · TypeScript · Tailwind CSS |
-| **Backend** | Node.js · Express · FastAPI · REST APIs · Authentication |
-| **Data** | PostgreSQL · MongoDB · Redis · Supabase · Prisma |
-| **Realtime** | WebSockets · Socket.IO |
-| **Languages** | JavaScript · TypeScript · Python · Java · SQL |
-| **Engineering** | API Design · Database Optimization · Debugging · Performance |
-| **Tools** | Git · GitHub · Postman · Docker · Linux |
+**Frontend**
+
+<img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React_Native-161B22?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+
+**Backend**
+
+<img src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=339933"/> <img src="https://img.shields.io/badge/Express-161B22?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-161B22?style=for-the-badge&logo=fastapi&logoColor=009688"/> <img src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-161B22?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+
+**Data & Infra**
+
+<img src="https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/MongoDB-161B22?style=for-the-badge&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/Redis-161B22?style=for-the-badge&logo=redis&logoColor=DC382D"/> <img src="https://img.shields.io/badge/Supabase-161B22?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/> <img src="https://img.shields.io/badge/Prisma-161B22?style=for-the-badge&logo=prisma&logoColor=white"/>
+
+**Realtime & Tools**
+
+<img src="https://img.shields.io/badge/Socket.IO-161B22?style=for-the-badge&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/Postman-161B22?style=for-the-badge&logo=postman&logoColor=FF6C37"/> <img src="https://img.shields.io/badge/AWS-161B22?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+
+**Currently strengthening**
+
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0D1117?style=flat-square&color=7C3AED"/> <img src="https://img.shields.io/badge/System_Design-0D1117?style=flat-square&color=7C3AED"/> <img src="https://img.shields.io/badge/AWS_Fundamentals-0D1117?style=flat-square&color=7C3AED"/>
 
 ---
 
+<a name="education"></a>
 <sub>06 / EDUCATION & CREDENTIALS</sub>
 
 # Foundations behind the work.
 
 ### Master of Computer Applications — MCA
-
 **SRM Easwari Engineering College, Chennai**
 2024 — 2026 · **CGPA 8.37 / 10**
 
 ### Bachelor of Computer Applications — BCA
-
 **Adhiparasakthi College of Arts & Science**
 2021 — 2024 · **CGPA 6.90 / 10**
 
@@ -218,11 +228,7 @@ A demo site focused on clear presentation, fast load times, and turning visitors
 
 `Java` · `Spring Boot` · `Kafka` · `JPA` · `JUnit`
 
-**Diploma in Java Programming — Grade A**
-
-**Diploma in Full Stack Programming — Grade A**
-
-**Currently strengthening:** `Data Structures & Algorithms` · `System Design` · `AWS Fundamentals` · `Spring Boot`
+**Diploma in Java Programming — Grade A** · **Diploma in Full Stack Programming — Grade A**
 
 ---
 
@@ -238,6 +244,7 @@ I'm currently interested in opportunities where I can contribute to real product
 
 ---
 
+<a name="contact"></a>
 <div align="center">
 
 <br>
@@ -257,6 +264,10 @@ I'm currently interested in opportunities where I can contribute to real product
 <a href="mailto:ajaysettu1@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
+<br><br>
+
+<a href="#top"><img src="https://img.shields.io/badge/Back_to_top-0D1117?style=flat-square&color=7C3AED" /></a>
 
 <br><br>
 
