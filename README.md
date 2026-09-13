@@ -1,409 +1,428 @@
-<!--
-  AJAY S — GITHUB PROFILE
-  Full-Stack Developer & Software Engineer
-  Accent: #7C3AED
--->
-
 <div align="center">
 
-<sub>AJAY S / SOFTWARE ENGINEERING / CHENNAI, INDIA</sub>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:7C3AED,100:0D1117&height=190&section=header&text=AJAY%20S&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Developer%20%26%20Software%20Engineer&descAlignY=57&descSize=17&animation=fadeIn"
+  width="100%"
+  alt="Ajay S — Full-Stack Developer and Software Engineer"
+/>
 
-# Ajay S
+<p>
+  <strong>React · Next.js · Node.js · TypeScript · Java · Python</strong>
+</p>
 
-### Full-Stack Developer & Software Engineer
+<p>
+  MCA Graduate · Freelancer · Chennai, India · Open to Full-Time Opportunities
+</p>
 
-**React · Next.js · Node.js · TypeScript · Java · Python**
-
-I build complete software systems — from responsive interfaces and backend APIs to data layers, real-time workflows, and AI-integrated functionality.
-
-**MCA Graduate · Freelancer · Open to Full-Time Software Engineering Opportunities**
-
-<br/>
-
-<a href="https://ajay-s-portfolio-5leb.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/ajay-s-4b3383267">
-  <img src="https://img.shields.io/badge/LINKEDIN-7C3AED?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:ajaysettu1@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://github.com/Ajay-2k3">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<p>
+  <a href="https://ajay-s-portfolio-5leb.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/ajay-s-4b3383267">
+    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ajaysettu1@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Ajay-2k3">
+    <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 </div>
 
-<br/>
+<br>
+
+> **I build complete digital systems — from interface and API design to databases, real-time workflows, and AI service integration.**
+
+<br>
 
 ---
 
-## 01 / Profile
+<sub>00 / PROFILE</sub>
 
-### I build the system behind the interface.
+## Full-stack by scope.<br>Software engineering by direction.
 
-2026 **MCA graduate** focused on full-stack software engineering across frontend applications, backend services, databases, and real-time application workflows.
+I'm **Ajay S**, an MCA graduate based in Chennai, focused on building full-stack applications that connect thoughtful user interfaces with reliable backend workflows.
 
-My experience combines:
+My experience spans **React and Next.js frontends, Node.js/FastAPI services, REST APIs, PostgreSQL, Redis, Supabase, WebSockets, authentication, and application performance work**.
 
-- full-stack application development with **React, Next.js, Node.js, TypeScript, and PostgreSQL**
-- backend engineering experience from my internship at **Bluewhiz Infotech**
-- real-time functionality using **WebSockets / Socket.IO**
-- database and API performance optimization
-- freelance-oriented business websites and lead-generation workflows
-- integration of **Python / FastAPI AI services** into full-stack applications
+I also completed a backend development internship and build business-focused web systems through freelance and portfolio projects.
 
-My goal is to grow as a **Software Engineer / Full-Stack Engineer**, with particular interest in backend engineering, application architecture, real-time systems, and reliable product development.
+**Current direction:** Software Engineer · Full-Stack Developer · Backend-oriented Full-Stack roles
+
+<br>
 
 ---
 
-## 02 / Selected Systems
+<sub>01 / SELECTED SYSTEMS</sub>
 
-<sub>ENGINEERING WORK / APPLICATION ARCHITECTURE / PRODUCT THINKING</sub>
+# Systems built to solve real problems.
 
-### 01 — StockIQ
+A few projects that best represent how I approach software engineering — understand the problem, define the system, build across layers, and measure what matters.
 
-**AI Stock Prediction & Monitoring Platform**  
-*MCA Final-Year Project*
+<br>
 
-> A real-time Indian stock monitoring platform combining a full-stack application with dedicated machine-learning services for market analysis and prediction.
+## 01. StockIQ
 
-**Problem**  
-Bring market monitoring, portfolio workflows, alerts, risk information, price prediction, and BUY / SELL / HOLD analysis into one application.
+### AI Stock Prediction & Monitoring Platform
+
+**MCA Final-Year Project**
+
+A full-stack platform for monitoring Indian NSE/BSE stocks, analyzing market information, and generating AI-assisted price and **BUY / SELL / HOLD** predictions.
 
 **What I built**
 
 - Developed the frontend using **React 18, TypeScript, Vite, and Tailwind CSS**.
-- Built dashboards for stock monitoring, candlestick visualization, watchlists, portfolios, alerts, risk analysis, and prediction history.
-- Developed backend functionality with **Node.js, Express, and TypeScript**.
+- Built stock dashboards, candlestick views, watchlists, portfolio workflows, alerts, risk analysis, and prediction history.
+- Built backend services with **Node.js, Express, and TypeScript**.
 - Integrated a dedicated **Python + FastAPI** machine-learning service.
 - Used **PostgreSQL** for persistent application data and **Redis** within backend workflows.
-- Added real-time application updates using **Socket.IO / WebSockets**.
-- Integrated market and news data through **Yahoo Finance / yfinance** and **NewsAPI**.
-- Explored and used **LSTM, Transformer, Random Forest, XGBoost, and DQN** approaches for prediction workflows.
+- Implemented real-time application updates using **Socket.IO / WebSockets**.
+- Integrated market and news data using **Yahoo Finance / yfinance** and **NewsAPI**.
+- Explored and used **LSTM, Transformer, Random Forest, XGBoost, and DQN** approaches across prediction workflows.
 
-**Measured project results**
+**Measured during project evaluation**
 
-`~2.1% MAPE` for the 1-day ensemble price prediction  
-`~78.4%` trend classification accuracy
+`≈ 2.1% MAPE` — 1-day ensemble price prediction  
+`≈ 78.4%` — trend classification accuracy
+
+**System**
+
+`React` → `Node.js / Express` → `PostgreSQL / Redis` → `FastAPI / Python` → `ML Models`
 
 **Stack**
 
-`React 18` `TypeScript` `Node.js` `Express` `FastAPI` `Python`  
-`PostgreSQL` `Redis` `Socket.IO` `Tailwind CSS`
+`React 18` `TypeScript` `Node.js` `Express` `FastAPI` `Python` `PostgreSQL` `Redis` `Socket.IO`
 
 [**View Repository →**](https://github.com/Ajay-2k3/stockiq-smart-flow)
 
+<br>
+
 ---
 
-### 02 — Flowerly
+## 02. Flowerly
 
-**Multi-Role E-Commerce Platform**
+### Multi-Role E-Commerce Platform
 
-> A commercial-style e-commerce system designed around separate customer, seller, delivery, and administration workflows.
+A commercial-style full-stack commerce system designed around different workflows for customers, sellers, delivery agents, and administrators.
 
-**System architecture**
+**System areas**
 
-- Customer application
+- Customer-facing shopping application
 - Seller dashboard
-- Delivery agent application
-- Admin portal
+- Delivery-agent workflow
+- Administrative portal
+- Responsive product and commerce interfaces
+- Checkout workflow
+- Razorpay payment integration
+- Real-time order tracking
+- Google Maps integration
 
-**What I built**
+**Engineering approach**
 
-- Designed a **multi-role application structure** for different operational workflows.
-- Built responsive interfaces using **Next.js, React, and TypeScript**.
-- Implemented the application checkout flow.
-- Integrated **Razorpay** for payment functionality.
-- Added **Socket.IO** based real-time order tracking.
-- Integrated **Google Maps** for location-related functionality.
-- Used **PostgreSQL + Prisma** for application data.
-- Used **Redis** within the application architecture.
+The project required coordinating multiple user roles through shared commerce data while keeping each interface focused on the responsibilities of that role.
+
+Real-time order updates are handled using **Socket.IO**, while the application data layer uses **PostgreSQL, Prisma, and Redis**.
 
 **Stack**
 
-`Next.js` `React` `TypeScript` `PostgreSQL` `Prisma`  
-`Redis` `Socket.IO` `Razorpay` `Google Maps`
+`Next.js` `React` `TypeScript` `PostgreSQL` `Prisma` `Redis` `Socket.IO` `Razorpay` `Google Maps`
+
+<br>
 
 ---
 
-### 03 — Thendral
+## 03. Thendral
 
-**Street Light Management System**  
-*Internship Project — Bluewhiz Infotech Pvt. Ltd.*
+### Street Light Management System
 
-> A role-based React Native application for managing street-light operations, maintenance workflows, inventory, and issue handling.
+**Internship System · Bluewhiz Infotech Pvt. Ltd.**
 
-**Application roles**
+A React Native application for managing street-light infrastructure and operational workflows across multiple user roles.
 
-`Admin` `Technician` `End User` `Inventory Manager`
+**Roles supported**
 
-**What I worked on**
+`Admin` · `Technician` · `End User` · `Inventory Manager`
 
-- Developed backend functionality and REST API workflows for the mobile application.
-- Worked with application data supporting **500+ street-light nodes**.
-- Improved API response performance through backend optimization.
-- Optimized **PostgreSQL / Supabase queries, indexing, and schema structure**.
-- Worked across role-based operational and inventory workflows.
+**My engineering work**
 
-**Measured project results**
+- Developed and optimized REST API functionality supporting the mobile application.
+- Worked with authentication and role-oriented backend workflows.
+- Worked with **PostgreSQL / Supabase** application data.
+- Applied database indexing and schema improvements.
+- Supported application workflows operating across **500+ street-light nodes**.
+
+**Project-reported performance results**
 
 `~760 ms → ~490 ms` measured API response time  
-`~35%` API response improvement  
-`~40%` database latency reduction under tested load
+`≈ 35%` API response improvement  
+`≈ 40%` database latency reduction under tested load
 
 **Stack**
 
-`React Native` `Expo` `Expo Router` `Redux Toolkit`  
-`React Query` `Supabase` `PostgreSQL`
+`React Native` `Expo` `Expo Router` `Redux Toolkit` `React Query` `Supabase` `PostgreSQL`
+
+<br>
 
 ---
 
-### 04 — Business Web Systems
+## 04. Business Web Systems
 
-**Freelance Portfolio Projects**
+### Engineering meets conversion.
 
-> Business-focused applications where interface design, technical implementation, lead capture, and conversion workflows are considered together.
+Not every useful system needs to be a large SaaS product.
 
-#### Dental / Medical Clinic Platform
+I also build business-focused websites and web applications where the technical decisions are tied directly to **customer actions, lead generation, usability, and operational workflows**.
 
-Built a clinic-focused full-stack demo containing:
+### Dental / Medical Clinic Platform
 
-- responsive service and doctor information pages
-- appointment request workflow
-- WhatsApp contact and conversion flow
-- lead capture
-- Supabase integration
-- clinic management console
-- lead timeline
-- notifications
-- automation rules
-- analytics
+Built a clinic-focused web system covering:
 
-#### Fitness & Gym Website
+- Service presentation
+- Doctor information
+- Appointment requests
+- WhatsApp conversion flows
+- Lead capture
+- Supabase data integration
+- Clinic management console
+- Lead timeline
+- Notifications
+- Automation rules
+- Analytics
+- Responsive UI
 
-Built a responsive gym business website demo as part of my freelance development portfolio.
+### Gym Website
 
-These projects let me work beyond page implementation and consider how a website supports **business communication, customer actions, and operational workflows**.
+Built a business-focused gym website demo as part of my freelance portfolio, focused on presenting the business clearly through a responsive web experience.
 
-[**Explore My Portfolio →**](https://ajay-s-portfolio-5leb.vercel.app/)
+[**Explore Portfolio →**](https://ajay-s-portfolio-5leb.vercel.app/)
 
----
-
-## 03 / Engineering in Practice
-
-### Backend Developer Intern
-
-**Bluewhiz Infotech Pvt. Ltd.**  
-`APR 2025 — AUG 2025`
-
-- Developed **12+ RESTful endpoints** supporting backend functionality for a React Native street-light management system.
-- Worked with authentication, application services, PostgreSQL/Supabase data flows, and role-based functionality.
-- Improved measured API response time from approximately **760 ms to 490 ms** through backend optimization.
-- Optimized database queries and structure, contributing to approximately **40% lower database latency under tested load**.
-- Delivered **7+ production-ready features and workflows** based on stakeholder and field-technician requirements.
-- Shipped **20 peer-reviewed pull requests** while working in a 3-person Agile/Scrum team.
-- Debugged application issues and participated in code-review and issue-resolution workflows.
-- Contributed to improvements that reduced average fault-ticket resolution time by approximately **30% across 50–100 weekly support tickets**.
+<br>
 
 ---
 
-## 04 / Engineering Focus
+<sub>02 / EXPERIENCE</sub>
 
-### What I focus on when building software.
+# Engineering inside a real development workflow.
 
-**Application Architecture**  
-Full-stack application structure · frontend/backend integration · role-based workflows
+## Backend Developer Intern
 
-**Backend Engineering**  
-REST API design · authentication · service logic · debugging · integration testing
+### Bluewhiz Infotech Pvt. Ltd.
 
-**Real-Time Systems**  
-WebSockets · Socket.IO · live application state and event-driven workflows
+**April 2025 — August 2025**
 
-**Data Layer**  
-PostgreSQL · database design · query optimization · Redis · ORM-based data access
+- Developed **12+ RESTful endpoints** supporting application and backend workflows.
+- Worked with authentication and backend functionality for a multi-role React Native application.
+- Developed and optimized API functionality, with measured response time improving from approximately **760 ms to 490 ms**.
+- Optimized **PostgreSQL / Supabase** queries and database structure, contributing to an approximately **40% reduction in database latency under tested load**.
+- Worked with application data spanning **500+ street-light nodes**.
+- Delivered application features through an **Agile / Scrum** development process.
+- Participated in pull-request reviews, debugging, issue resolution, and iterative application improvement.
 
-**Frontend Engineering**  
-React · Next.js · TypeScript · responsive interfaces · reusable components
-
-**Application Performance**  
-API response optimization · database latency reduction · frontend performance awareness
-
-**AI Integration**  
-FastAPI services · Python ML workflows · integrating predictive functionality into web applications
-
-**Engineering Practice**  
-Git · pull requests · code review · Agile/Scrum · issue resolution · SDLC fundamentals
+<br>
 
 ---
 
-## 05 / Technical System
+<sub>03 / ENGINEERING APPROACH</sub>
 
-<sub>TOOLS I USE / TECHNOLOGIES I HAVE WORKED WITH</sub>
+# One system.<br>Every layer considered.
+
+| Layer | What I work on | Applied in |
+|---|---|---|
+| **Interface** | Responsive application UI, component architecture, business workflows | StockIQ · Flowerly · Business Websites |
+| **API** | REST endpoints, authentication, backend logic | Bluewhiz · StockIQ |
+| **Data** | PostgreSQL, Supabase, MongoDB, Prisma, query optimization | Thendral · Flowerly · StockIQ |
+| **Realtime** | WebSockets, Socket.IO, live state updates | StockIQ · Flowerly |
+| **Performance** | API response improvement, database optimization | Bluewhiz / Thendral |
+| **Caching** | Redis-backed application workflows | StockIQ · Flowerly |
+| **AI Integration** | Connecting Python ML services with web applications | StockIQ |
+| **Delivery** | Git, code review, Docker fundamentals, deployment workflows | Projects & Internship |
+
+<br>
+
+### Engineering Focus
+
+`REST API Design` · `Full-Stack Architecture` · `Authentication` · `Database Optimization`
+
+`Real-Time Communication` · `Caching` · `Responsive UI` · `AI Service Integration`
+
+`Application Performance` · `Debugging` · `Deployment Fundamentals`
+
+<br>
+
+---
+
+<sub>04 / TECHNOLOGY</sub>
+
+# Tools chosen for the system,<br>not collected for the badge wall.
 
 ### Core
 
-**Languages**  
-JavaScript · TypeScript · Python · Java · C++ · SQL
+| | Technologies |
+|---|---|
+| **Languages** | JavaScript · TypeScript · Python · Java · SQL |
+| **Frontend** | React · Next.js · React Native · Tailwind CSS |
+| **Backend** | Node.js · Express · FastAPI · REST APIs · Socket.IO |
+| **Data** | PostgreSQL · MongoDB · Redis · Supabase · Prisma |
+| **Workflow** | Git · GitHub · Postman · Docker · Linux |
 
-**Frontend**  
-React · Next.js · React Native · Tailwind CSS
-
-**Backend**  
-Node.js · Express.js · FastAPI · REST APIs · WebSockets · Socket.IO
-
-**Databases & Data**  
-PostgreSQL · MySQL · MongoDB · Redis · Supabase · Prisma ORM
-
-**Testing & Debugging**  
-JUnit · Jest · Integration Testing · Debugging · Issue Resolution
-
-**Tools & Workflow**  
-Git · GitHub · Postman · Docker fundamentals · Linux · Pull Requests · Code Review · Agile/Scrum
-
-**Core Computer Science**  
-Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems · Computer Networks
-
-### Exposure / Learning
+### Exposure / Continuing Development
 
 `Spring Boot` · `Apache Kafka` · `AWS Fundamentals` · `GitHub Actions` · `System Design`
 
-These technologies are areas of continued learning or limited project exposure rather than claimed expert-level skills.
+> These are areas I am continuing to develop rather than presenting as specialist-level expertise.
+
+<br>
 
 ---
 
-## 06 / Technical Programs & Certifications
+<sub>05 / CREDENTIALS</sub>
 
-### JPMorgan Chase Software Engineering Virtual Experience
+# Foundations backed by practice.
 
-**Forage — Virtual Experience / Job Simulation**
+### JPMorgan Chase Software Engineering Virtual Experience / Job Simulation
+**Forage**
 
-- Worked with Java-based backend engineering tasks.
-- Built functionality involving **Kafka and REST APIs**.
-- Used **JUnit** for integration testing.
-- Completed **15+ passing JUnit integration tests** covering service and API behavior.
+Worked through software-engineering tasks involving:
 
-**Technical exposure:**  
-`Java` `Spring Boot` `Kafka` `REST APIs` `JPA` `JUnit`
+`Java` · `Spring Boot` · `Kafka` · `JPA` · `JUnit`
 
----
+### Diploma in Java Programming
+**Grade A**
 
-### Additional Credentials
+### Diploma in Full Stack Programming
+**Grade A**
 
-**Python Essentials 1**  
-Cisco Networking Academy / Python Institute · 2026
-
-**Introduction to Modern AI**  
-Cisco Networking Academy · 2026
-
-**Diploma in Java Programming**  
-Grade A
-
-**Diploma in Full Stack Programming**  
-Grade A
+<br>
 
 ---
 
-## 07 / Education
+<sub>06 / EDUCATION</sub>
+
+# Computer science foundations,<br>then applied engineering.
 
 ### Master of Computer Applications — MCA
 
-**SRM Easwari Engineering College, Chennai**
+**SRM Easwari Engineering College, Chennai**  
+2024 — 2026
 
-`2024 — 2026`
+**CGPA: 8.37 / 10**
 
-**CGPA — 8.37 / 10**
-
-<br/>
+<br>
 
 ### Bachelor of Computer Applications — BCA
 
-**Adhiparasakthi College of Arts & Science**
+**Adhiparasakthi College of Arts & Science**  
+2021 — 2024
 
-`2021 — 2024`
+**CGPA: 6.90 / 10**
 
-**CGPA — 6.90 / 10**
+<br>
 
 ---
 
-## 08 / GitHub Activity
+<sub>07 / GITHUB</sub>
 
-<sub>PUBLIC REPOSITORY ACTIVITY — NOT A MEASURE OF PROFESSIONAL PROFICIENCY</sub>
-
-<br/>
+# Code tells part of the story.<br>Systems tell the rest.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ajay-2k3&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=7C3AED&text_color=8B949E&hide_rank=true" alt="Ajay S GitHub statistics"/>
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=Ajay-2k3&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=7C3AED&text_color=8B949E&ring_color=7C3AED"
+  alt="Ajay S GitHub statistics"
+/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-2k3&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=8B949E" alt="Languages across Ajay S public repositories"/>
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-2k3&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=8B949E"
+  alt="Languages across Ajay S public GitHub repositories"
+/>
 
 </div>
 
----
+<p align="center">
+  <sub>
+    Repository language statistics describe public GitHub code composition and are not a measure of professional proficiency.
+  </sub>
+</p>
 
-## 09 / Current Focus
-
-I am currently strengthening the areas that matter most for software engineering interviews and long-term backend/full-stack development:
-
-`Data Structures & Algorithms`  
-`System Design`  
-`Backend Engineering`  
-`AWS Fundamentals`  
-`AI Engineering Fundamentals`
-
-**Interview preparation:** practicing DSA and problem-solving for software engineering roles.
+<br>
 
 ---
 
-## 10 / Have a Product Worth Building?
+<sub>08 / CURRENT DIRECTION</sub>
 
-I am open to working on software where there is a real engineering problem to solve — whether that means building the interface, designing the API, structuring the data layer, integrating real-time functionality, or connecting the application to an AI service.
+# From building applications<br>to engineering stronger systems.
 
-### Currently open to
+My current learning is deliberately focused on areas that strengthen the software I already build:
 
-- **Full-Time Software Engineering opportunities**
-- **Full-Stack Developer roles**
-- **Selected freelance web development projects**
-- **Developer collaborations**
+**Data Structures & Algorithms**  
+Software-engineering interview preparation and problem-solving patterns.
 
-<br/>
+**Backend Engineering**  
+API design, databases, caching, performance, reliability, and application architecture.
+
+**System Design**  
+Understanding how larger software systems are structured and how engineering decisions affect scalability and maintainability.
+
+**AWS Fundamentals**  
+Building stronger deployment and cloud-platform foundations.
+
+**AI Engineering Fundamentals**  
+Improving how AI capabilities are integrated into practical software systems.
+
+<br>
+
+---
+
+<sub>09 / CONTACT</sub>
+
+# Have a problem<br>worth solving?
+
+I'm interested in work where I can contribute across the product stack while continuing to grow as a software engineer.
+
+**Open to**
+
+`Full-Time Software Engineering`
+
+`Full-Stack Development`
+
+`Selected Freelance Projects`
+
+`Developer Collaborations`
+
+<br>
 
 <div align="center">
 
-<a href="https://ajay-s-portfolio-5leb.vercel.app/">
-  <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/ajay-s-4b3383267">
-  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-7C3AED?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:ajaysettu1@gmail.com">
-  <img src="https://img.shields.io/badge/START_A_CONVERSATION-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+### Let's build something useful.
 
-</div>
+<p>
+  <a href="https://ajay-s-portfolio-5leb.vercel.app/">
+    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/ajay-s-4b3383267">
+    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ajaysettu1@gmail.com">
+    <img src="https://img.shields.io/badge/SEND_AN_EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<br/>
+<br>
 
----
+**AJAY S**
 
-<div align="center">
+<sub>FULL-STACK DEVELOPER · SOFTWARE ENGINEER · CHENNAI, INDIA</sub>
 
-<sub>AJAY S / FULL-STACK SOFTWARE ENGINEER</sub>
+<br><br>
 
-### Interfaces are only one layer.  
-### I like building what makes them work.
-
-[Portfolio](https://ajay-s-portfolio-5leb.vercel.app/) ·
-[LinkedIn](https://linkedin.com/in/ajay-s-4b3383267) ·
-[Email](mailto:ajaysettu1@gmail.com) ·
-[GitHub](https://github.com/Ajay-2k3)
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:7C3AED,100:0D1117&height=100&section=footer"
+  width="100%"
+  alt=""
+/>
 
 </div>
