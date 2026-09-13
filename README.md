@@ -2,7 +2,7 @@
 
 # AJAY S
 
-### Full-Stack Developer — Building Products & Business Websites
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Software+Engineer;Building+Products+%26+Business+Websites" alt="Typing animation banner"/>
 
 I design and build complete web applications across
 **frontend · backend · databases · real-time systems · AI integrations**
@@ -36,6 +36,8 @@ MCA Graduate · Chennai, India · Backend Development Internship Experience · O
 </div>
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=header&animation=fadeIn" width="100%"/>
 
 ---
 
@@ -242,8 +244,7 @@ I'm currently interested in opportunities where I can contribute to real product
 
 # Have a problem worth solving?
 
-I enjoy turning requirements into working software —
-from the first interface to the API, database, and final workflow.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Let's+turn+requirements+into+working+software.;From+the+first+interface+to+the+API%2C+database%2C+and+workflow." alt="Closing tagline animation"/>
 
 <br>
 
